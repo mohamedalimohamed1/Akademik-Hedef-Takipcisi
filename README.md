@@ -96,7 +96,7 @@ Back to Dashboard
 1. Bu repository'i klonlayın:
 
 ```
-git clone https://github.com/mohamedalimohamed1/AkademikHedefTakipcisi.git
+git clone <repository-url>
 ```
 
 2. Android Studio ile projeyi açın.
