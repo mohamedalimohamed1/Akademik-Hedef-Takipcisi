@@ -115,7 +115,6 @@ git clone https://github.com/mohamedalimohamed1/AkademikHedefTakipcisi.git
 * Bildirim sistemi
 * Akademik ilerleme raporları
 
-## Geliştirici
+## Geliştirme Notu
 
-Mohamed Ali Mohamed
-Computer Engineering Student
+Bu proje, Kotlin, Jetpack Compose ve Firebase kullanılarak geliştirilmiş örnek bir akademik hedef takip uygulamasıdır.
