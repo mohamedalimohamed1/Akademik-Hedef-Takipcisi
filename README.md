@@ -36,7 +36,7 @@ Akademik Hedef Takipçisi, öğrencilerin dönemlik akademik hedeflerini belirle
 ## Proje Yapısı
 
 ```
-AkademikHedefTakipcisi
+Akademik-Hedef-Takipcisi
 
 app
  ├── ui
@@ -96,7 +96,7 @@ Back to Dashboard
 1. Bu repository'i klonlayın:
 
 ```
-git clone <repository-url>
+git clone https://github.com/mohamedalimohamed1/Akademik-Hedef-Takipcisi.git
 ```
 
 2. Android Studio ile projeyi açın.
